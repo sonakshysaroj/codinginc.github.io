@@ -7,14 +7,14 @@ text-decoration-color: azure;
 img{
     max-width:40%;
     max-height: 40%;
-    padding-left: 190px;
+    padding-left: 180px;
     
     
 }
 
 p{
     font-family: 'Raleway', sans-serif;
-    font-size:25px;
+    font-size:27px;
     color:black;
     text-align: inherit;
     padding-left: 190px;
@@ -31,7 +31,7 @@ p{
     border-color: black;
     border-width: medium;
     border-style: dotted;
-    background-color: skyblue;
+    background-color: blue;
     margin-left: 180px;
     margin-right: 180px;
     
